@@ -2,16 +2,11 @@
 ## Support
   please contact: aurapps.dev@gmail.com
 ## Privacy Policy
-  Privacy Policy
-
-Updated at 2021-02-24
-
-
 Pipe-Game (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Pipe-Game.
 
 This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Pipe-Game. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
 
-Definitions and key terms
+### Definitions and key terms
 
 To help explain things as clearly as possible in this Privacy Policy, every time any of these terms are referenced, are strictly defined as:
 
@@ -35,17 +30,17 @@ There is some information like your Internet Protocol (IP) address and/or browse
 We automatically collect certain information when you visit, use or navigate the platform. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about who and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our platform, and for our internal analytics and reporting purposes.
 
 
-Sale of Business
+### Sale of Business
 
 We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Pipe-Game or any of its Corporate Affiliates (as defined herein), or that portion of Pipe-Game or any of its Corporate Affiliates to which the Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
 
-Affiliates
+### Affiliates
 
 We may disclose information (including personal information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Pipe-Game, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
 
-Governing Law
+### Governing Law
 
 This Privacy Policy is governed by the laws of Switzerland without regard to its conflict of laws provision. You consent to the exclusive jurisdiction of the courts in connection with any action or dispute arising between the parties under or in connection with this Privacy Policy except for those individuals who may have rights to make claims under Privacy Shield, or the Swiss-US framework.
 
@@ -54,17 +49,17 @@ The laws of Switzerland, excluding its conflicts of law rules, shall govern this
 By using Pipe-Game or contacting us directly, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you should not engage with our website, or use our services. Continued use of the website, direct engagement with us, or following the posting of changes to this Privacy Policy that do not significantly affect the use or disclosure of your personal information will mean that you accept those changes.
 
 
-Your Consent
+### Your Consent
 
 We've updated our Privacy Policy to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, registering an account, or making a purchase, you hereby consent to our Privacy Policy and agree to its terms.
 
 
-Links to Other Websites
+### Links to Other Websites
 
 This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by Pipe-Game. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the Services to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our platform, is subject to that website’s own rules and policies. Such third parties may use their own cookies or other methods to collect information about you.
 
 
-Advertising
+### Advertising
 
 This app may contain third party advertisements and links to third party sites. Pipe-Game does not make any representation as to the accuracy or suitability of any of the information contained in those advertisements or sites and does not accept any responsibility or liability for the conduct or content of those advertisements and sites and the offerings made by the third parties.
 
@@ -73,77 +68,66 @@ Advertising keeps Pipe-Game and many of the websites and services you use free o
 Third party advertisements and links to other sites where goods or services are advertised are not endorsements or recommendations by Pipe-Game of the third party sites, goods or services. Pipe-Game takes no responsibility for the content of any of the ads, promises made, or the quality/reliability of the products or services offered in all advertisements.
 
 
-Cookies for Advertising
+### Cookies for Advertising
 
 These cookies collect information over time about your online activity on the app and other online services to make online advertisements more relevant and effective to you. This is known as interest-based advertising. They also perform functions like preventing the same ad from continuously reappearing and ensuring that ads are properly displayed for advertisers. Without cookies, it’s really hard for an advertiser to reach its audience, or to know how many ads were shown and how many clicks they received.
 
 
-Cookies
+### Cookies
 
 Pipe-Game uses "Cookies" to identify the areas of our website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to enhance the performance and functionality of our app but are non-essential to their use. However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit the app as we would not be able to remember that you had logged in previously. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our website correctly or at all. We never place Personally Identifiable Information in Cookies.
 
 
-Blocking and disabling cookies and similar technologies
+### Blocking and disabling cookies and similar technologies
 
 Wherever you're located you may also set your browser to block cookies and similar technologies, but this action may block our essential cookies and prevent our website from functioning properly, and you may not be able to fully utilize all of its features and services. You should also be aware that you may also lose some saved information (e.g. saved login details, site preferences) if you block cookies on your browser. Different browsers make different controls available to you. Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser, you should visit your browser's help menu for more information.
 
 
-Remarketing Services
+### Remarketing Services
 
 We use remarketing services. What Is Remarketing? In digital marketing, remarketing (or retargeting) is the practice of serving ads across the internet to people who have already visited your website. It allows your company to seem like they're “following” people around the internet by serving ads on the websites and platforms they use most.
 
 
-Payment Details
+### Payment Details
 
 In respect to any credit card or other payment processing details you have provided us, we commit that this confidential information will be stored in the most secure manner possible.
 
 
-Kids' Privacy
+### Kids' Privacy
 
 We collect information from kids under the age of 13 just to better our services. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data without your permission, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 
-Changes To Our Privacy Policy
+### Changes To Our Privacy Policy
 
 We may change our Service and policies, and we may need to make changes to this Privacy Policy so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to this Privacy Policy and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Privacy Policy. If you do not want to agree to this or any updated Privacy Policy, you can delete your account.
 
 
-Third-Party Services
+### Third-Party Services
 
 We may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services ("Third- Party Services").
 You acknowledge and agree that Pipe-Game shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. Pipe-Game does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.
 Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.
 
 
-Tracking Technologies
-
-  -Local Storage
-
-  Local Storage sometimes known as DOM storage, provides web apps with methods and protocols for storing client-side data. Web storage supports persistent data storage, similar to cookies but with a greatly enhanced capacity and no information stored in the HTTP request header.
-
-  -Sessions
-
-  Pipe-Game uses "Sessions" to identify the areas of our website that you have visited. A Session is a small piece of data stored on your computer or mobile device by your web browser.
-
-
-Information about General Data Protection Regulation (GDPR)
+### Information about General Data Protection Regulation (GDPR)
 
 We may be collecting and using information from you if you are from the European Economic Area (EEA), and in this section of our Privacy Policy we are going to explain exactly how and why is this data collected, and how we maintain this data under protection from being replicated or used in the wrong way.
 
 
-What is GDPR?
+### What is GDPR?
 
 GDPR is an EU-wide privacy and data protection law that regulates how EU residents' data is protected by companies and enhances the control the EU residents have, over their personal data.
 
 The GDPR is relevant to any globally operating company and not just the EU-based businesses and EU residents. Our customers’ data is important irrespective of where they are located, which is why we have implemented GDPR controls as our baseline standard for all our operations worldwide.
 
 
-What is personal data?
+### What is personal data?
 
 Any data that relates to an identifiable or identified individual. GDPR covers a broad spectrum of information that could be used on its own, or in combination with other pieces of information, to identify a person. Personal data extends beyond a person’s name or email address. Some examples include financial information, political opinions, genetic data, biometric data, IP addresses, physical address, sexual orientation, and ethnicity.
 
 
-The Data Protection Principles include requirements such as:
+### The Data Protection Principles include requirements such as:
 
   -Personal data collected must be processed in a fair, legal, and transparent way and should only be used in a way that a person would reasonably expect.
   -Personal data should only be collected to fulfil a specific purpose and it should only be used for that purpose. Organizations must specify why they need the personal data when they collect it.
@@ -151,19 +135,19 @@ The Data Protection Principles include requirements such as:
   -People covered by the GDPR have the right to access their own personal data. They can also request a copy of their data, and that their data be updated, deleted, restricted, or moved to another organization.
 
 
-Why is GDPR important?
+### Why is GDPR important?
 
 GDPR adds some new requirements regarding how companies should protect individuals' personal data that they collect and process. It also raises the stakes for compliance by increasing enforcement and imposing greater fines for breach. Beyond these facts it's simply the right thing to do. At Pipe-Game we strongly believe that your data privacy is very important and we already have solid security and privacy practices in place that go beyond the requirements of this new regulation.
 
 
-Individual Data Subject's Rights - Data Access, Portability and Deletion
+### Individual Data Subject's Rights - Data Access, Portability and Deletion
 
 We are committed to helping our customers meet the data subject rights requirements of GDPR. Pipe-Game processes or stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data for up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms of Service and Privacy Policy, but we will not hold it longer than 60 days.
 
 We are aware that if you are working with EU customers, you need to be able to provide them with the ability to access, update, retrieve and remove personal data. We got you! We've been set up as self service from the start and have always given you access to your data and your customers data. Our customer support team is here for you to answer any questions you might have about working with the API.
 
 
-California Residents
+### California Residents
 
 The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
 
@@ -179,11 +163,11 @@ We do not sell the Personal Information of our users.
 For more information about these rights, please contact us.
 
 
-California Online Privacy Protection Act (CalOPPA)
+### California Online Privacy Protection Act (CalOPPA)
 
 CalOPPA requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
 
-CalOPPA users have the following rights:
+### CalOPPA users have the following rights:
 
   -Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
   -Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
@@ -202,5 +186,6 @@ Contact Us
 Don't hesitate to contact us if you have any questions.
 
  -Via Email:  aurapps.dev@gmail.com
+
 
   
